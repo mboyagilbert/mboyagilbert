@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mboyagilbert
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me codes and tutorials
+- 👀 System Analyst
+- 🌱 Huge interest in Machine Learning
+
 
 <!---
 mboyagilbert/mboyagilbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
